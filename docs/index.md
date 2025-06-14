@@ -1,0 +1,1 @@
+![Foto di Julius](images/juli.png)

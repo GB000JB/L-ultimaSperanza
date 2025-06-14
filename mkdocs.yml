@@ -1,0 +1,20 @@
+site_name: +
+site_url: https://mydomain.org/mysite
+
+theme:
+  name: material
+  language: it
+  logo: images/red-ball.png
+  palette:
+    primary: black
+    scheme: default
+
+nav:
+  - Home: index.md
+  - Io: io.md
+  - Carriera: carriera.md
+  - Lavori: lavori.md
+  - Garibaldi: garibaldi.md
+
+extra_css:
+  - styles/custom.css
